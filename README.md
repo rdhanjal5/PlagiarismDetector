@@ -1,0 +1,4 @@
+# PlagiarismDetector
+
+How to Run
+
