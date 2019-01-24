@@ -1,8 +1,6 @@
 # PlagiarismDetector
 
-#How to Run
+# How to Run
 
-#Algorithm
-
-
+# Algorithm
 
