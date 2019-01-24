@@ -3,9 +3,9 @@ Command-line program for plagiarism detection using a N-tuple comparison algorit
 
 ## How to Run
 ###### Required Arguments:
-*Synonym File
-*File 1
-*File 2
+*Synonym File  
+*File 1  
+*File 2  
 ##Optional Argument:
 
 
